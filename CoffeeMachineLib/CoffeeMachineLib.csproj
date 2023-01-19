@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Drink\" />
+    <None Remove="Storage\" />
+    <None Remove="CoffeeMachine\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Drink\" />
+    <Folder Include="Storage\" />
+    <Folder Include="CoffeeMachine\" />
+  </ItemGroup>
+</Project>

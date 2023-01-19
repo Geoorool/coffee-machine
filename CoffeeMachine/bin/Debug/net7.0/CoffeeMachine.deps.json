@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CoffeeMachine/1.0.0": {
+        "dependencies": {
+          "CoffeeMachineLib": "1.0.0"
+        },
+        "runtime": {
+          "CoffeeMachine.dll": {}
+        }
+      },
+      "CoffeeMachineLib/1.0.0": {
+        "runtime": {
+          "CoffeeMachineLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CoffeeMachine/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CoffeeMachineLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

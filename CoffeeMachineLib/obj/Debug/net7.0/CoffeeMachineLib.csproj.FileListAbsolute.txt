@@ -1,0 +1,12 @@
+/Users/ilasalnikov/Projects/CoffeeMachine/CoffeeMachineLib/bin/Debug/net7.0/CoffeeMachineLib.deps.json
+/Users/ilasalnikov/Projects/CoffeeMachine/CoffeeMachineLib/bin/Debug/net7.0/CoffeeMachineLib.dll
+/Users/ilasalnikov/Projects/CoffeeMachine/CoffeeMachineLib/bin/Debug/net7.0/CoffeeMachineLib.pdb
+/Users/ilasalnikov/Projects/CoffeeMachine/CoffeeMachineLib/obj/Debug/net7.0/CoffeeMachineLib.csproj.AssemblyReference.cache
+/Users/ilasalnikov/Projects/CoffeeMachine/CoffeeMachineLib/obj/Debug/net7.0/CoffeeMachineLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilasalnikov/Projects/CoffeeMachine/CoffeeMachineLib/obj/Debug/net7.0/CoffeeMachineLib.AssemblyInfoInputs.cache
+/Users/ilasalnikov/Projects/CoffeeMachine/CoffeeMachineLib/obj/Debug/net7.0/CoffeeMachineLib.AssemblyInfo.cs
+/Users/ilasalnikov/Projects/CoffeeMachine/CoffeeMachineLib/obj/Debug/net7.0/CoffeeMachineLib.csproj.CoreCompileInputs.cache
+/Users/ilasalnikov/Projects/CoffeeMachine/CoffeeMachineLib/obj/Debug/net7.0/CoffeeMachineLib.dll
+/Users/ilasalnikov/Projects/CoffeeMachine/CoffeeMachineLib/obj/Debug/net7.0/refint/CoffeeMachineLib.dll
+/Users/ilasalnikov/Projects/CoffeeMachine/CoffeeMachineLib/obj/Debug/net7.0/CoffeeMachineLib.pdb
+/Users/ilasalnikov/Projects/CoffeeMachine/CoffeeMachineLib/obj/Debug/net7.0/ref/CoffeeMachineLib.dll
